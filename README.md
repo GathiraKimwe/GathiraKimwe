@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gathira Kimwe</h1>
-<h3 align="center">A passionate Fullstack Developer and Network Engineer</h3>
+<h3 align="center">A passionate junior Fullstack Developer and Network Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gathirakimwe&label=Profile%20views&color=0e75b6&style=flat" alt="gathirakimwe" /> </p>
 
